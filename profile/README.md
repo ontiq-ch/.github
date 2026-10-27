@@ -14,4 +14,4 @@ $ ontiq --status
 
 Hier entstehen nach und nach Werkzeuge und Beispiele aus unserer Arbeit in Planung und Koordination, intelligenter Datennutzung sowie Programmierung und Automatisierung.
 
-[ontiq.ch](https://ontiq.ch) · kontakt@ontiq.ch · Sitz in Graubünden, tätig in der ganzen Deutschschweiz
+[ontiq.ch](https://ontiq.ch) · kontakt@ontiq.ch · Sitz in Landquart, tätig in der ganzen Deutschschweiz
